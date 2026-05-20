@@ -1,0 +1,15 @@
+EXPORTS
+IMEController_Create
+IMEController_Destroy
+IMEController_SetActive
+IMEController_IsActive
+IMEController_EnableInputMode
+IMEController_IsInputModeEnabled
+IMEController_ForceEnglishIME
+IMEController_Update
+IMEInputBox_Create
+IMEInputBox_Destroy
+IMEInputBox_SetFocus
+IMEInputBox_LostFocus
+IMEInputBox_SetPosition
+IMEInputBox_UpdateCandidatePosition
